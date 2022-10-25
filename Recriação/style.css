@@ -1,0 +1,60 @@
+/* 
+Amarelo1 (Preço,botao): #febe01
+Amarelo2 (cor do botao): #332200
+
+Preto: #111
+Cinza: #b2b2b2
+
+Font: Arial
+*/
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.header {
+  text-align: center;
+  color: black;
+  margin-top: 35px;
+}
+
+div {
+  background-color: #111;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 16px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 40px;
+}
+
+span {
+  color: #febe01;
+}
+
+h5 {
+  color: #b2b2b2;
+}
+
+h1 {
+  color: white;
+  margin: 1px;
+}
+
+a {
+  background-color: #febe01;
+  text-decoration: none;
+  border-radius: 3px;
+  color: #111;
+}
+
+.sizing {
+  margin-inline: 0px;
+  margin-bottom: 20px;
+}
+
+.compra {
+  padding: 8px;
+  margin-inline: 0px;
+}
